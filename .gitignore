@@ -4,4 +4,5 @@ yu/
 parents/
 longwei/
 .venv/
+misclassified_images/
 outputs/misclassified/
